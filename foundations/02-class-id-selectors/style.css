@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph.another-class {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#firstId {
+    color: blue;
+    font-size: 30px;
+}
+
+#secondId {
+    background-color: #2bf059;
+    font-weight: bold;
+}
